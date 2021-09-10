@@ -1,0 +1,4 @@
+outs:
+- md5: 2f0966219ce9170a57ba70a8682aa221
+  size: 666
+  path: output.json
